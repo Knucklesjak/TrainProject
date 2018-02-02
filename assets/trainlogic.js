@@ -1,9 +1,5 @@
 $(document).ready(function() {
 
-	// 1. Initialize Firebase
- 
-
-
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyAcweXYQ21nDH7vQ1y-MbNrJ1bgaOXc0C4",
